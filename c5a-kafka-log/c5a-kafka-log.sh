@@ -1,0 +1,1 @@
+$MAELSTROM_LOC/maelstrom test -w kafka --bin ~/go/bin/c5a-kafka-log --node-count 1 --concurrency 2n --time-limit 20 --rate 1000
